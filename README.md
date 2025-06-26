@@ -9,16 +9,7 @@
 
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=kyiroywops&rank=-C,-B,-?,-A" alt="kyiroywops" />
-      </a>
-    </td>
-  </tr>
-</table>
-
+por q no se me centra?: <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img width="220" src="https://github-profile-trophy.vercel.app/?username=kyiroywops&rank=-C,-B,-?,-A" alt="kyiroywops" /></a> </p>
 
 - 🎓 Diving deep into **Digital business solutions**
 - 💼 Eager to collaborate on groundbreaking **business software**
