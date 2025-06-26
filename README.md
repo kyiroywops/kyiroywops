@@ -15,7 +15,6 @@
 - 💼 Eager to collaborate on groundbreaking **business software**
 - 💡 Ask me about my expertise in **React, NextJS, CI/CD, Django, Full Stack App development, API Development, Flutter**
 - 📧 Reach out to me at: **hello@tryagain.app**
-- 📝 Learn more about my work experiences at [https://kyiroywops.github.io](https://kyiroywops.github.io)
 
 ---
 
