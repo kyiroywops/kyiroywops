@@ -9,11 +9,7 @@
 
 </div>
 
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=kyiroywops&theme=nord&column=7&no-frame=true&no-bg=true" alt="kyiroywops" />
-</a> 
-</p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyiroywops" alt="kyiroywops" /></a> </p>
 
 - 🎓 Diving deep into **Digital business solutions**
 - 💼 Eager to collaborate on groundbreaking **business software**
@@ -38,15 +34,11 @@
 
   <br />
 
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kyiroywops&show_icons=true&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyiroywops&theme=tokyonight&layout=compact" />
-    </a>
-  </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyiroywops&show_icons=true&locale=en&layout=compact" alt="kyiroywops" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyiroywops&show_icons=true&locale=en" alt="kyiroywops" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyiroywops&" alt="kyiroywops" /></p>
 </details>
 
 ---
