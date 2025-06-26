@@ -35,10 +35,7 @@
   <br />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyiroywops&show_icons=true&locale=en&layout=compact" alt="kyiroywops" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kyiroywops&show_icons=true&locale=en" alt="kyiroywops" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kyiroywops&" alt="kyiroywops" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kyiroywops&" alt="kyiroywops" /></p>
 </details>
 
 ---
