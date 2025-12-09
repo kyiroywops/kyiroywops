@@ -17,4 +17,6 @@
   <i>Let's connect and chat about software, technology and innovation! Open to collaborate on projects and ideas.</i>
 </div>
 
+<br>
+
 <sup>This README was generated with ❤️ by kyiroywops</sup>
