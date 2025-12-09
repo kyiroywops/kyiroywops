@@ -2,8 +2,6 @@
 
 <h3 align="center">A Self-Taught Flutter Developer from Chile 🌶, Crafting the Web with Innovation and Creativity.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyiroywops&rank=-C,-B,-?,-A" alt="kyiroywops" /></a> </p>
-
 - 🎓 Diving deep into **Digital business solutions**
 - 💼 Eager to collaborate on groundbreaking **business software**
 - 💡 Ask me about my expertise in **React, NextJS, CI/CD, Full Stack App development, API Development, Flutter**
@@ -18,20 +16,5 @@
 <div align="center">
   <i>Let's connect and chat about software, technology and innovation! Open to collaborate on projects and ideas.</i>
 </div>
-
----
-
-<details>
-  <summary>📊 GitHub Statistics</summary>
-
-  <br />
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyiroywops&show_icons=true&locale=en&layout=compact" alt="kyiroywops" />
-    &nbsp;&nbsp;&nbsp;
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kyiroywops&" alt="kyiroywops" />
-  </p>
-
----
 
 <sup>This README was generated with ❤️ by kyiroywops</sup>
