@@ -5,7 +5,6 @@
 - 🎓 Diving deep into **Digital business solutions**
 - 💼 Eager to collaborate on groundbreaking **business software**
 - 💡 Ask me about my expertise in **React, NextJS, CI/CD, Full Stack App development, API Development, Flutter**
-- 📧 Reach out to me at: **hello@tryagain.app**
 
 ---
 
@@ -19,4 +18,4 @@
 
 <br>
 
-<sup>This README was generated with ❤️ by kyiroywops</sup>
+<sup>This README was generated with ❤️ by leroy</sup>
